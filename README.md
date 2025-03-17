@@ -23,7 +23,7 @@ Welcome to **Travel Website** – your ultimate travel companion! 🏝️🌆 Wh
 1️⃣ Clone the repository:  
 ```bash
 git clone <https://github.com/Jigyasa5/Travel-website>
-git clone <repository-url>
+
 2️⃣ Start your local server (XAMPP/WAMP) 🛠️
 3️⃣ Import the database (database.sql) into MySQL 📂
 4️⃣ Place project files in the htdocs folder (if using XAMPP) 📁
